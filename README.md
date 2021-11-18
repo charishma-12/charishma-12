@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-charishma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charishma-padmanabhuni/)](https://www.linkedin.com/in/charishma-padmanabhuni/)
 
