@@ -17,9 +17,16 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-charishma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charishma-padmanabhuni/)](https://www.linkedin.com/in/charishma-padmanabhuni/)
 
-I'm a web developer. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development ( Angular9, HTML5, CSS3, Javascript),databaseMysql). Had a good experience through internship in Amazon. 
+I'm a web developer. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development ( Angular9, HTML5, CSS3, Javascript),databaseMysql). Had a good experience with angular & spring through internship in Amazon. 
 
 ![Visitor Count](https://profile-counter.glitch.me/charishma-12/count.svg)
+
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=charishma-12&column=7"/>
+  </a>
+</div>
 
 Languages & tools : 
 
